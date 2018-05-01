@@ -1,2 +1,2 @@
-# partedigital
+# http://partedigital
 Meu Site
